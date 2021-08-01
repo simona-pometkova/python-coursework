@@ -1,0 +1,22 @@
+3333 ; The Neverending Story ; 01/03/1997 ; 22/03/1997
+1598 ; Harry Potter and the Order of the Phoenix ; 23/06/2008 ; 10/07/2008
+1010 ; The Book Thief ; 04/01/2004 ; 28/01/2004
+4612 ; The Green Mile ; 09/08/2001 ; 30/08/2001
+4567 ; A Study in Scarlet ; 10/06/2000 ; 01/07/2000
+1132 ; The Adventures of Sherlock Holmes ; 19/08/2001 ; 04/09/2001
+3214 ; Harry Potter and the Prisoner of Azkaban ; 16/12/2005 ; 30/12/2005
+7423 ; The Lord of the Rings ; 27/04/2002 ; 17/05/2002
+9090 ; Ten Little Niggers ; 01/01/1999 ; 22/01/1999
+1365 ; The Hound of the Baskervilles ; 03/11/2000 ; 27/11/2000
+3356 ; It ; 11/09/2014 ; 01/10/2014
+4897 ; Harry Potter and the Philosopher's Stone ; 09/10/2006 ; 30/10/2006
+4612 ; The Green Mile ; 25/11/2019 ; ???
+4567 ; A Study in Scarlet ; 13/10/2019 ; ???
+8852 ; Harry Potter and the Goblet of Fire ; 20/11/2019 ; ???
+1365 ; The Hound of the Baskervilles ; 29/10/2019 ; ???
+9989 ; The Sign of the Four ; 16/11/2019 ; ???
+8798 ; The Adventures of Sherlock Holmes ; 30/11/2019 ; ???
+2020 ; The Book Thief ; 01/12/2019 ; ???
+3663 ; Harry Potter and the Chamber of Secrets ; 18/10/2019 ; ???
+7563 ; The Lord of the Rings ; 17/10/2019 ; ???
+3547 ; Harry Potter and the Half-Blood Prince ; 03/12/2019 ; ???

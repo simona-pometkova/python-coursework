@@ -1,0 +1,30 @@
+2323 ; The Green Mile ; Stephen King ; 02/06/2001 ; 0
+4612 ; The Green Mile ; Stephen King ; 02/06/2001 ; 1928
+1092 ; A Study in Scarlet ; Arthur Conan Doyle ; 19/02/1999 ; 0
+3902 ; A Study in Scarlet ; Arthur Conan Doyle ; 19/02/1999 ; 0
+4567 ; A Study in Scarlet ; Arthur Conan Doyle ; 19/02/1999 ; 7627
+1365 ; The Hound of the Baskervilles ; Arthur Conan Doyle ; 23/11/1997 ; 1887
+7898 ; A Scandal in Bohemia ; Arthur Conan Doyle ; 18/09/2004 ; 0
+9989 ; The Sign of the Four ; Arthur Conan Doyle ; 08/04/2007 ; 4893
+2802 ; The Adventures of Sherlock Holmes ; Arthur Conan Doyle ; 10/06/2000 ; 0
+1006 ; The Adventures of Sherlock Holmes ; Arthur Conan Doyle ; 10/06/2000 ; 0
+8798 ; The Adventures of Sherlock Holmes ; Arthur Conan Doyle ; 10/06/2000 ; 8798
+1132 ; The Adventures of Sherlock Holmes ; Arthur Conan Doyle ; 10/06/2000 ; 0
+1010 ; The Book Thief ; Markus Zusak ; 27/07/2003 ; 0
+2020 ; The Book Thief ; Markus Zusak ; 27/07/2003 ; 1283
+3333 ; The Neverending Story ; Michael Ende ; 29/01/1996 ; 0
+4897 ; Harry Potter and the Philosopher's Stone ; J.K.Rowling ; 31/07/2006 ; 0
+3663 ; Harry Potter and the Chamber of Secrets ; J.K.Rowling ; 22/09/2003 ; 1992
+1235 ; Harry Potter and the Chamber of Secrets ; J.K.Rowling ; 22/09/2003 ; 0
+3214 ; Harry Potter and the Prisoner of Azkaban ; J.K.Rowling ; 11/05/2002 ; 0
+8852 ; Harry Potter and the Goblet of Fire ; J.K.Rowling ; 01/02/2010 ; 2324
+9963 ; Harry Potter and the Goblet of Fire ; J.K.Rowling ; 01/02/2010 ; 0
+7741 ; Harry Potter and the Goblet of Fire ; J.K.Rowling ; 01/02/2010 ; 0
+1598 ; Harry Potter and the Order of the Phoenix ; J.K.Rowling ; 18/04/2008 ; 0
+3547 ; Harry Potter and the Half-Blood Prince ; J.K.Rowling ; 09/12/2011 ; 4545
+1698 ; Harry Potter and the Half-Blood Prince ; J.K.Rowling ; 09/12/2011 ; 0
+2365 ; Harry Potter and the Deathly Hallows ; J.K.Rowling ; 04/11/2009 ; 0
+7563 ; The Lord of the Rings ; J.R.R.Tolkien ; 20/03/2002 ; 1827
+7423 ; The Lord of the Rings ; J.R.R.Tolkien ; 20/03/2002 ; 0
+3356 ; It ; Stephen King ; 13/12/2013 ; 0
+9090 ; Ten Little Niggers ; Agatha Christie ; 08/12/1998 ; 0
